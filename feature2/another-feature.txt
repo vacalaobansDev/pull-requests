@@ -1,1 +1,3 @@
 file was added in the feature2 branch
+
+One more change in the feature2 branch.
